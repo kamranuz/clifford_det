@@ -6,7 +6,7 @@ Here we present implementation in Python programming language of the formulas an
 
 The Implementation
 ------------------
-The implementation requires [`galgebra`](https://github.com/pygae/galgebra) for symbolic computations and [`clifford`](https://github.com/pygae/clifford) for numeric computations. 
+The implementation requires [`galgebra`](https://github.com/pygae/galgebra) package for symbolic computations and [`clifford`](https://github.com/pygae/clifford) package for numeric computations. 
 
 **We implement the following:**
 
