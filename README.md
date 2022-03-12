@@ -1,6 +1,6 @@
 
 
-The Implementation of the formulas from the paper "**Basis-free Formulas for Characteristic Polynomial Coefficients in Geometric Algebras**
+The Implementation of the formulas from the paper "**Basis-free Formulas for Characteristic Polynomial Coefficients in Geometric Algebras**"
 =========================================================
 Here we present implementation in Python programming language of the formulas and algorithms in Geometric Algebra from the paper "**Basis-free Formulas for Characteristic Polynomial Coefficients in Geometric Algebras**". 
 
