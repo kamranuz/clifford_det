@@ -17,7 +17,7 @@ In `coefficients_explicit_n5.py`
 - The *explicit* formulas for the characteristic polynomial coefficients in the case n=5 from the paper "**Basis-free Formulas for Characteristic Polynomial Coefficients in Geometric Algebras**" (*Theorem 5.1*).
 
 In `coefficients_explicit_genralform.py`
-- Our method to obtain a general form of the basis-free formulas for all characteristic polynomial coefficients in the cases n≤ 6  from the paper **"Basis-free Formulas for Characteristic Polynomial Coefficients in Geometric Algebras"** (*Sections 7 and 8*)  
+- Our method to obtain a general form of the basis-free formulas for all characteristic polynomial coefficients in the cases n≤ 6  from the paper **"Basis-free Formulas for Characteristic Polynomial Coefficients in Geometric Algebras"** (*Sections 7 and 8*).  
 
 
 Examples
