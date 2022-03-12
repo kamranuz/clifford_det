@@ -8,7 +8,7 @@ The Implementation
 ------------------
 The implementation requires [`galgebra`](https://github.com/pygae/galgebra) package for symbolic computations and [`clifford`](https://github.com/pygae/clifford) package for numeric computations. 
 
-**We implement the following:**
+**We implement:**
 
 In `coefficients_recursive.py`
 - The *recursive* formulas for the characteristic polynomial coefficients from the paper [**"On computing the determinant, other characteristic polynomial coefficients, and inverse in Clifford algebras of arbitrary dimension"**](https://arxiv.org/abs/2005.04015) (*Theorem 4*).
