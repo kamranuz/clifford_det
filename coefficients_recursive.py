@@ -31,7 +31,7 @@ def define_algebra_operations(u):
 	u_data_type = str(type(u))
 	if u_data_type == "<class 'clifford._multivector.MultiVector'>":
 		get_grade0 = lambda x: x[0]
-		n = len(u.grades())-1
+		n = len(u.layout.dims)
 
 	elif u_data_type == "<class 'galgebra.mv.Mv'>":
 		get_grade0 = lambda x: x.scalar()
